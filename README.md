@@ -120,6 +120,7 @@ Month-wise average attendance trends
 Sample student risk overview table
 
 📷 Output Screenshots
+
 🔹 Institutional Overview Dashboard
 
 <img width="1366" height="768" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/3ec0a72e-6fbe-4d26-b163-aab99ee88ee0" />
