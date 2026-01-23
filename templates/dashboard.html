@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Academic Intelligence Dashboard</title>
+    <link rel="stylesheet" href="/static/css/dashboard.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<header>
+    <h1>🎓 Academic Intelligence Platform</h1>
+    <p>Student Retention & Risk Analytics</p>
+</header>
+
+<!-- KPI CARDS -->
+<section class="kpi">
+    <div class="card">
+        <h3>Total Students</h3>
+        <p>{{ total_students }}</p>
+    </div>
+    <div class="card">
+        <h3>Retention Rate</h3>
+        <p>{{ retention_rate }}%</p>
+    </div>
+    <div class="card danger">
+        <h3>High Risk</h3>
+        <p>{{ high_risk }}</p>
+    </div>
+    <div class="card">
+        <h3>Avg Attendance</h3>
+        <p>{{ avg_attendance }}%</p>
+    </div>
+</section>
+
+<!-- CHARTS -->
+<section class="charts">
+    <div class="chart-box">
+        <canvas id="riskChart"></canvas>
+    </div>
+    <div class="chart-box">
+        <canvas id="attendanceChart"></canvas>
+    </div>
+</section>
+
+<!-- STUDENT TABLE -->
+<section class="table-section">
+    <h2>Student Risk Overview</h2>
+    <table>
+        <tr>
+            <th>Attendance</th>
+            <th>Marks</th>
+            <th>Behavior</th>
+            <th>Risk</th>
+        </tr>
+        {% for s in students %}
+        <tr>
+            <td>{{ s.attendance }}</td>
+            <td>{{ s.internal_marks }}</td>
+            <td>{{ s.behavior_score }}</td>
+            <td class="{{ s.risk_level|lower }}">{{ s.risk_level }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</section>
+
+<!-- CHART.JS SCRIPTS -->
+<script>
+/* ===============================
+   RISK DISTRIBUTION BAR CHART
+================================ */
+new Chart(document.getElementById("riskChart"), {
+    type: "bar",
+    data: {
+        labels: ["Low Risk", "Medium Risk", "High Risk"],
+        datasets: [{
+            label: "Number of Students",
+            data: [{{ low_risk }}, {{ medium_risk }}, {{ high_risk }}],
+            backgroundColor: ["#22c55e", "#facc15", "#ef4444"]
+        }]
+    },
+    options: {
+        responsive: true,
+        plugins: {
+            legend: {
+                display: true
+            }
+        }
+    }
+});
+
+/* ===============================
+   ATTENDANCE TREND LINE CHART
+================================ */
+new Chart(document.getElementById("attendanceChart"), {
+    type: "line",
+    data: {
+        labels: {{ labels | safe }},
+        datasets: [{
+            label: "Average Attendance (%)",
+            data: {{ values | safe }},
+            borderColor: "#2563eb",
+            backgroundColor: "#2563eb",
+            fill: false,
+            tension: 0.3
+        }]
+    },
+    options: {
+        responsive: true,
+        plugins: {
+            legend: {
+                display: true
+            }
+        }
+    }
+});
+</script>
+
+</body>
+</html>
