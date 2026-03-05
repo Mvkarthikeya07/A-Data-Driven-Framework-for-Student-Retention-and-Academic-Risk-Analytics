@@ -180,7 +180,7 @@ Aligns with educational analytics research
 
 Promotes ethical use of data
 
-🎯 Relevance to Higher Education & DAAD
+🎯 Relevance to Higher Education
 
 This project aligns strongly with research areas valued by German public universities and DAAD, including:
 
