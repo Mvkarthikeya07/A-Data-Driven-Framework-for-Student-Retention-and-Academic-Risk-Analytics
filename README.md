@@ -102,6 +102,7 @@ Intervention recommendations
 Academic policy simulations
 
 🖥️ Dashboard Features
+
 📌 Key Performance Indicators (KPIs)
 
 Total number of students
@@ -219,7 +220,45 @@ Risk-based academic recommendations
 
 Semester-wise analytics
 
-PDF report export
+PDF academic report export
+
+🏆 Hackathon Recognition
+
+This project was presented and demonstrated during HACKELITE’2026, a 24-hour hackathon organized by the Developer Network Space (DNS), Department of Computer Science and Engineering at SRM Institute of Science and Technology, Vadapalani Campus in Chennai.
+
+The hackathon involved multiple elimination rounds where participants developed innovative solutions within a strict 24-hour development cycle.
+
+During the hackathon, this framework focused on:
+
+Designing a data-driven student retention analytics system
+
+Developing risk classification logic for academic performance analysis
+
+Creating interactive dashboards for institutional insights
+
+Demonstrating a scalable decision-support system for education analytics
+
+The project advanced through competitive rounds, and I was honored to receive the Certificate of Merit as a Finalist.
+
+Skills Demonstrated
+
+Rapid prototyping
+
+Data analytics pipeline design
+
+Dashboard development
+
+System architecture planning
+
+Collaborative problem solving under pressure
+
+Hackathons like HackElite encourage innovation, technical execution, and real-world problem solving in compressed development environments.
+
+🔗 LinkedIn Post
+
+The hackathon recognition and certificate can be viewed here:
+
+https://www.linkedin.com/posts/m-v-karthikeya-b26a2131b_hackelite2026-hackathon-innovation-activity-7428108728744284160-mRH3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEhlw4BT-6V0rnLIZSzBIoK7YvV2QlbHLc
 
 ✅ Conclusion
 
