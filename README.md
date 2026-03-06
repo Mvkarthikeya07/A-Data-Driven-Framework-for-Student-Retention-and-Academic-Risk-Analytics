@@ -280,8 +280,4 @@ This project is released under the MIT License and is intended for academic, res
 
 M V Karthikeya
 
-Computer Science Student
-Educational Data Analytics Enthusiast
-Hackathon Finalist
-
 ⭐ If you find this project useful, consider starring the repository.
