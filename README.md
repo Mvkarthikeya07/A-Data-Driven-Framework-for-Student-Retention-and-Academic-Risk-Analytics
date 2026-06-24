@@ -25,7 +25,7 @@
 
 - [Project Overview](#-project-overview)
 - [Hackathon Recognition](#-hackathon-recognition)
-- [Research Publication](#-ResearcResearchPublication)
+- [Research Publication](#-research-publication)
 - [Application Screenshots](#-application-screenshots)
 - [Dataset](#-dataset)
 - [Machine Learning Pipeline](#-machine-learning-pipeline)
@@ -72,7 +72,7 @@ This framework introduces a **proactive academic intelligence system** that anal
 - Interactive institutional dashboard development
 - Scalable decision-support architecture planning
 
-## 📄 Research Publication
+##  📄 Research Publication
 
 <div align="center">
 
