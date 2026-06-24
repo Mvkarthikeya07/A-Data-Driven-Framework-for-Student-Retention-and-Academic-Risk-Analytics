@@ -70,6 +70,48 @@ This framework introduces a **proactive academic intelligence system** that anal
 - Interactive institutional dashboard development
 - Scalable decision-support architecture planning
 
+## 📄 Research Publication
+
+<div align="center">
+
+[![IJERT](https://img.shields.io/badge/IJERT-Peer--Reviewed-D85A30?style=for-the-badge&logo=academia&logoColor=white)](YOUR_PAPER_LINK)
+[![Volume 15](https://img.shields.io/badge/Vol.15_Issue_04-April_2026-185FA5?style=for-the-badge)](YOUR_PAPER_LINK)
+[![DOI](https://img.shields.io/badge/Reg-IJERTV15IS040138-7F77DD?style=for-the-badge)](YOUR_PAPER_LINK)
+[![License](https://img.shields.io/badge/License-CC_BY_4.0-0F6E56?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
+
+</div>
+
+---
+
+### 🔬 A Data-Driven Framework for Student Retention and Academic Risk Prediction using Machine Learning
+
+> **Published in** · International Journal of Engineering Research & Technology (IJERT)
+> **ISSN:** 2278-0181 · **Vol. 15, Issue 04** · **April 2026**
+> **Registration No.:** IJERTV15IS040138
+
+**Authors:** M. V. Karthikeya · Pragada Krishna Vamsi · Siddhi Chordia · Joshika Yuvaraj
+**Faculty Advisor:** Dr. T. V. Nagalakshmi · DVR & Dr. HS MIC College of Technology
+
+---
+
+#### Abstract
+> Proposes a machine learning framework that classifies students into Low / Medium / High academic risk tiers using attendance, internal marks, behavior scores, and study hours — integrated with a Flask-based institutional analytics dashboard for proactive early intervention.
+
+| Metric | Value |
+|---|---|
+| Model | Random Forest Classifier |
+| Accuracy | **88.5%** |
+| Precision | 86.2% |
+| Recall | 84.7% |
+| F1-Score | 85.4% |
+| Dataset | 10,000+ student profiles |
+| Top Feature | Attendance (≈40% importance) |
+
+[![Read Paper](https://img.shields.io/badge/📄_Read_Full_Paper-IJERT-D85A30?style=for-the-badge)]([YOUR_PAPER_LINK](https://www.ijert.org/a-data-driven-framework-for-student-retention-and-academic-risk-prediction-using-machine-learning-ijertv15is040138))
+[![Certificate](https://www.linkedin.com/posts/m-v-karthikeya-b26a2131b_research-machinelearning-artificialintelligence-activity-7447608124355768320-dkeH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEhlw4BT-6V0rnLIZSzBIoK7YvV2QlbHLc)
+
+---
+
 ---
 
 ## 📸 Application Screenshots
