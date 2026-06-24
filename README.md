@@ -107,7 +107,7 @@ This framework introduces a **proactive academic intelligence system** that anal
 | Dataset | 10,000+ student profiles |
 | Top Feature | Attendance (≈40% importance) |
 
-[![Read Paper](https://img.shields.io/badge/📄_Read_Full_Paper-IJERT-D85A30?style=for-the-badge)]([YOUR_PAPER_LINK](https://www.ijert.org/a-data-driven-framework-for-student-retention-and-academic-risk-prediction-using-machine-learning-ijertv15is040138))
+[![Read Paper](https://img.shields.io/badge/📄_Read_Full_Paper-IJERT-D85A30?style=for-the-badge)](https://www.ijert.org/a-data-driven-framework-for-student-retention-and-academic-risk-prediction-using-machine-learning-ijertv15is040138))
 
 [![Certificate](https://img.shields.io/badge/🏅_View_Certificate-LinkedIn-185FA5?style=for-the-badge)](https://www.linkedin.com/posts/m-v-karthikeya-b26a2131b_research-machinelearning-artificialintelligence-activity-7447608124355768320-dkeH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEhlw4BT-6V0rnLIZSzBIoK7YvV2QlbHLc)
 
