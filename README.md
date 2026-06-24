@@ -4,12 +4,13 @@
 <h3>A Data-Driven Framework for Early Academic Risk Detection and Institutional Decision Support</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-3.0.0-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-1.3.2-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dataset-10%2C000%20Students-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hackathon-HACKELITE'26%20Finalist-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-3.0.0-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-1.3.2-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dataset-10%2C000%20Students-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathon-HACKELITE'26%20Finalist-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IJERT-Published%20%7C%20Vol.15%20Issue%2004-D85A30?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 </p>
 
 <p>
@@ -24,6 +25,7 @@
 
 - [Project Overview](#-project-overview)
 - [Hackathon Recognition](#-hackathon-recognition)
+- [Research Publication](#-ResearcResearchPublication)
 - [Application Screenshots](#-application-screenshots)
 - [Dataset](#-dataset)
 - [Machine Learning Pipeline](#-machine-learning-pipeline)
@@ -107,7 +109,7 @@ This framework introduces a **proactive academic intelligence system** that anal
 | Dataset | 10,000+ student profiles |
 | Top Feature | Attendance (≈40% importance) |
 
-[![Read Paper](https://img.shields.io/badge/📄_Read_Full_Paper-IJERT-D85A30?style=for-the-badge)](https://www.ijert.org/a-data-driven-framework-for-student-retention-and-academic-risk-prediction-using-machine-learning-ijertv15is040138))
+[![Read Paper](https://img.shields.io/badge/📄_Read_Full_Paper-IJERT-D85A30?style=for-the-badge)](https://www.ijert.org/a-data-driven-framework-for-student-retention-and-academic-risk-prediction-using-machine-learning-ijertv15is040138)
 
 [![Certificate](https://img.shields.io/badge/🏅_View_Certificate-LinkedIn-185FA5?style=for-the-badge)](https://www.linkedin.com/posts/m-v-karthikeya-b26a2131b_research-machinelearning-artificialintelligence-activity-7447608124355768320-dkeH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEhlw4BT-6V0rnLIZSzBIoK7YvV2QlbHLc)
 
