@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>📊 Student Retention & Academic Risk Analytic</h1>
+<h1>📊 Student Retention & Academic Risk Analytics</h1>
 <h3>A Data-Driven Framework for Early Academic Risk Detection and Institutional Decision Support</h3>
 
 <p>
